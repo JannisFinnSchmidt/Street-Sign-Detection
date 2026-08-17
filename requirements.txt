@@ -371,7 +371,7 @@ markupsafe==3.0.3
     #   flask
     #   jinja2
     #   werkzeug
-matplotlib==3.11.0
+matplotlib==3.11.1
     # via ultralytics
 mdurl==0.1.2
     # via markdown-it-py
