@@ -440,7 +440,7 @@ nvidia-cusparse-cu12==12.5.8.93
     # via
     #   cuda-toolkit
     #   nvidia-cusolver-cu12
-nvidia-cusparselt-cu12==0.7.1
+nvidia-cusparselt-cu12==0.8.1
     # via torch
 nvidia-ml-py==13.610.43
     # via
