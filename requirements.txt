@@ -40,7 +40,7 @@ anyio==4.14.0
     #   watchfiles
 appdirs==1.4.4
     # via iterative-telemetry
-asgiref==3.11.1
+asgiref==3.12.1
     # via opentelemetry-instrumentation-asgi
 asyncssh==2.23.1
     # via scmrepo
